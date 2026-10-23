@@ -5,5 +5,9 @@
 | <h1>[u24.gov.ua](https://u24.gov.ua/)<br>💙💛</h1>   | ![Repo Atlas QR](https://quickchart.io/qr?text=https://u24.gov.ua/)  |
 |--------------------------------------------------|------------------------------------------------------------------------|
 
+<a href="[https://crisisrelief.un.org/en/opt-crisis](https://commission.europa.eu/topics/eu-solidarity-ukraine_en)"><img height="36" alt="image" src="https://github.com/user-attachments/assets/543cfb8d-ee33-40de-a5e7-be116993cc20" /></a> <a href="https://crisisrelief.un.org/en/opt-crisis"><img height="36" alt="image" src="https://github.com/user-attachments/assets/fdcfd524-5e12-4142-a219-d2e0e00710b5" /></a>
+
+<hr>
+
 [![Repo Atlas](https://img.shields.io/badge/Repo_Atlas-Explore_my_repos-blue?logo=github&logoColor=white)](https://evoluteur.github.io/repo-atlas/?u=alekrutkowski)
 
